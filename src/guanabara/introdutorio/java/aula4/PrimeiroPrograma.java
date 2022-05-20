@@ -1,4 +1,4 @@
-package guanabara.introdutorio.java;
+package guanabara.introdutorio.java.aula4;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
